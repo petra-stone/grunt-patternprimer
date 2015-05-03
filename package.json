@@ -1,6 +1,6 @@
 {
    "name": "grunt-patternprimer-custom",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fork of asciidisco grunt port for Jeremy Keiths pattern primer",
   "homepage": "https://github.com/petra-stone/grunt-patternprimer",
   "author": {
